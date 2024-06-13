@@ -1,0 +1,1022 @@
+expense_id,item_id,tax,total,item_name
+1,1,0.12,63.04,Leasehold Improvements
+1,2,0.09,41.41,Professional Fees
+2,1,0.08,16.15,Postage and Shipping
+2,2,0.2,146.97,Depreciation
+2,3,0.07,193.79,Promotions
+2,4,0.16,111.73,Utilities
+3,1,0.07,193.79,Promotions
+4,1,0.16,146.15,Software Subscriptions
+4,2,0.12,125.0,Legal Fees
+4,3,0.09,59.46,Janitorial Services
+5,1,0.13,195.23,Advertising
+5,2,0.12,102.66,Freight and Delivery
+5,3,0.07,90.62,Benefits
+5,4,0.09,110.33,Liability Insurance
+6,1,0.19,132.18,Miscellaneous Expenses
+6,2,0.08,64.64,Recruitment Costs
+6,3,0.15,165.9,Office Expenses
+7,1,0.1,36.95,Shipping Costs
+7,2,0.11,113.0,Insurance Premiums
+8,1,0.16,56.59,Prepaid Expenses
+8,2,0.13,151.04,Auditing Fees
+9,1,0.09,77.54,Employee Salaries
+9,2,0.16,146.15,Software Subscriptions
+9,3,0.15,86.64,Hardware Upgrades
+10,1,0.1,125.84,Marketing Costs
+10,2,0.19,16.58,Office Furniture
+10,3,0.06,128.19,Equipment Maintenance
+10,4,0.12,63.04,Leasehold Improvements
+11,1,0.18,66.63,Security Services
+11,2,0.12,125.0,Legal Fees
+12,1,0.18,99.41,Signage
+13,1,0.1,88.88,Fixtures and Equipment
+13,2,0.07,90.62,Benefits
+14,1,0.09,77.54,Employee Salaries
+15,1,0.1,164.11,Shrinkage
+15,2,0.2,102.55,Office Supplies
+15,3,0.19,109.54,Contractor Fees
+16,1,0.12,125.0,Legal Fees
+16,2,0.18,66.63,Security Services
+16,3,0.15,86.64,Hardware Upgrades
+17,1,0.08,64.64,Recruitment Costs
+18,1,0.09,59.46,Janitorial Services
+18,2,0.16,56.59,Prepaid Expenses
+19,1,0.17,134.64,Vehicle Maintenance
+20,1,0.09,77.54,Employee Salaries
+20,2,0.07,90.62,Benefits
+20,3,0.16,111.73,Utilities
+21,1,0.17,137.87,Pensions
+21,2,0.09,59.46,Janitorial Services
+21,3,0.11,188.36,Utilities Deposits
+21,4,0.17,134.64,Vehicle Maintenance
+22,1,0.17,134.64,Vehicle Maintenance
+22,2,0.19,109.54,Contractor Fees
+22,3,0.16,111.73,Utilities
+22,4,0.09,124.24,Consulting Fees
+23,1,0.06,174.78,Employee Training
+24,1,0.13,48.13,Packaging Materials
+24,2,0.2,102.55,Office Supplies
+25,1,0.07,193.79,Promotions
+25,2,0.13,35.21,Business Insurance
+25,3,0.1,36.95,Shipping Costs
+25,4,0.11,179.77,Amortization
+26,1,0.17,134.64,Vehicle Maintenance
+26,2,0.15,161.92,Travel Expenses
+26,3,0.13,195.23,Advertising
+26,4,0.2,102.55,Office Supplies
+27,1,0.19,132.18,Miscellaneous Expenses
+27,2,0.16,72.73,Returns
+28,1,0.18,99.41,Signage
+28,2,0.09,59.46,Janitorial Services
+28,3,0.12,102.66,Freight and Delivery
+29,1,0.18,99.41,Signage
+29,2,0.11,179.77,Amortization
+30,1,0.2,37.58,Workers Compensation
+31,1,0.08,64.64,Recruitment Costs
+32,1,0.11,66.59,Credit Card Fees
+32,2,0.07,90.62,Benefits
+32,3,0.17,137.87,Pensions
+33,1,0.09,41.41,Professional Fees
+34,1,0.09,59.46,Janitorial Services
+35,1,0.11,179.77,Amortization
+35,2,0.11,113.0,Insurance Premiums
+36,1,0.06,174.78,Employee Training
+36,2,0.19,109.54,Contractor Fees
+36,3,0.18,66.63,Security Services
+36,4,0.11,179.77,Amortization
+37,1,0.05,123.14,Interest Expenses
+38,1,0.15,161.92,Travel Expenses
+39,1,0.11,10.67,Bad Debt
+39,2,0.06,127.82,Property Taxes
+40,1,0.13,48.13,Packaging Materials
+40,2,0.06,31.8,Temporary Labor
+40,3,0.12,125.0,Legal Fees
+40,4,0.09,77.54,Employee Salaries
+41,1,0.11,66.59,Credit Card Fees
+41,2,0.19,66.64,Bank Fees
+41,3,0.16,90.05,Taxes
+42,1,0.2,37.58,Workers Compensation
+42,2,0.1,88.88,Fixtures and Equipment
+43,1,0.05,123.14,Interest Expenses
+43,2,0.2,37.58,Workers Compensation
+44,1,0.11,188.36,Utilities Deposits
+44,2,0.05,123.14,Interest Expenses
+44,3,0.13,151.04,Auditing Fees
+44,4,0.1,36.95,Shipping Costs
+45,1,0.06,128.19,Equipment Maintenance
+46,1,0.13,16.68,Inventory Costs
+46,2,0.12,102.66,Freight and Delivery
+46,3,0.1,164.11,Shrinkage
+46,4,0.13,156.95,Discounts
+47,1,0.18,99.41,Signage
+48,1,0.11,66.59,Credit Card Fees
+48,2,0.12,63.04,Leasehold Improvements
+49,1,0.1,171.6,Rent
+49,2,0.17,137.87,Pensions
+49,3,0.1,164.11,Shrinkage
+50,1,0.1,125.84,Marketing Costs
+50,2,0.15,161.92,Travel Expenses
+50,3,0.09,46.14,Fuel Costs
+51,1,0.09,46.14,Fuel Costs
+51,2,0.19,16.58,Office Furniture
+51,3,0.18,99.41,Signage
+51,4,0.13,195.23,Advertising
+52,1,0.17,137.87,Pensions
+52,2,0.11,179.77,Amortization
+53,1,0.1,125.84,Marketing Costs
+53,2,0.07,128.18,Other Expenses
+54,1,0.09,110.33,Liability Insurance
+54,2,0.16,72.73,Returns
+55,1,0.12,63.04,Leasehold Improvements
+55,2,0.13,195.23,Advertising
+55,3,0.1,165.64,Unemployment Taxes
+55,4,0.09,77.54,Employee Salaries
+56,1,0.17,137.87,Pensions
+56,2,0.16,56.59,Prepaid Expenses
+56,3,0.19,16.58,Office Furniture
+57,1,0.12,125.0,Legal Fees
+57,2,0.11,188.36,Utilities Deposits
+58,1,0.18,66.63,Security Services
+58,2,0.12,125.0,Legal Fees
+59,1,0.08,64.64,Recruitment Costs
+60,1,0.19,109.54,Contractor Fees
+60,2,0.19,66.64,Bank Fees
+60,3,0.18,66.63,Security Services
+60,4,0.16,146.15,Software Subscriptions
+61,1,0.16,90.05,Taxes
+61,2,0.1,125.84,Marketing Costs
+61,3,0.16,56.59,Prepaid Expenses
+62,1,0.18,99.41,Signage
+62,2,0.12,125.0,Legal Fees
+63,1,0.18,99.41,Signage
+63,2,0.17,137.87,Pensions
+64,1,0.14,129.84,Accounting Fees
+64,2,0.05,123.14,Interest Expenses
+64,3,0.06,128.19,Equipment Maintenance
+65,1,0.06,31.8,Temporary Labor
+65,2,0.13,156.95,Discounts
+65,3,0.16,146.15,Software Subscriptions
+65,4,0.2,146.97,Depreciation
+66,1,0.1,36.95,Shipping Costs
+66,2,0.15,165.9,Office Expenses
+66,3,0.19,109.54,Contractor Fees
+67,1,0.07,128.18,Other Expenses
+67,2,0.09,110.33,Liability Insurance
+68,1,0.1,164.11,Shrinkage
+69,1,0.13,16.68,Inventory Costs
+69,2,0.1,171.6,Rent
+70,1,0.07,193.79,Promotions
+70,2,0.19,66.64,Bank Fees
+70,3,0.1,164.11,Shrinkage
+70,4,0.19,109.54,Contractor Fees
+71,1,0.13,48.13,Packaging Materials
+71,2,0.16,111.73,Utilities
+71,3,0.1,171.6,Rent
+72,1,0.15,165.9,Office Expenses
+73,1,0.15,86.64,Hardware Upgrades
+74,1,0.08,16.15,Postage and Shipping
+74,2,0.17,137.87,Pensions
+74,3,0.07,193.79,Promotions
+75,1,0.07,193.79,Promotions
+76,1,0.13,16.68,Inventory Costs
+77,1,0.2,102.55,Office Supplies
+77,2,0.1,171.6,Rent
+77,3,0.15,86.64,Hardware Upgrades
+78,1,0.1,88.88,Fixtures and Equipment
+78,2,0.15,86.64,Hardware Upgrades
+78,3,0.17,134.64,Vehicle Maintenance
+79,1,0.09,59.46,Janitorial Services
+79,2,0.13,16.68,Inventory Costs
+80,1,0.13,151.04,Auditing Fees
+80,2,0.17,137.87,Pensions
+81,1,0.13,16.68,Inventory Costs
+81,2,0.12,125.0,Legal Fees
+81,3,0.07,128.18,Other Expenses
+81,4,0.1,36.95,Shipping Costs
+82,1,0.16,56.59,Prepaid Expenses
+83,1,0.11,179.77,Amortization
+83,2,0.09,124.24,Consulting Fees
+83,3,0.08,16.15,Postage and Shipping
+83,4,0.13,156.95,Discounts
+84,1,0.19,132.18,Miscellaneous Expenses
+84,2,0.06,174.78,Employee Training
+85,1,0.08,64.64,Recruitment Costs
+85,2,0.13,195.23,Advertising
+85,3,0.15,161.92,Travel Expenses
+86,1,0.09,59.46,Janitorial Services
+86,2,0.11,188.36,Utilities Deposits
+86,3,0.1,36.95,Shipping Costs
+87,1,0.09,41.41,Professional Fees
+87,2,0.06,31.8,Temporary Labor
+88,1,0.16,90.05,Taxes
+88,2,0.16,111.73,Utilities
+88,3,0.11,188.36,Utilities Deposits
+89,1,0.15,161.92,Travel Expenses
+90,1,0.17,137.87,Pensions
+90,2,0.19,109.54,Contractor Fees
+91,1,0.16,111.73,Utilities
+91,2,0.19,66.64,Bank Fees
+91,3,0.11,179.77,Amortization
+92,1,0.09,77.54,Employee Salaries
+92,2,0.11,188.36,Utilities Deposits
+92,3,0.09,124.24,Consulting Fees
+92,4,0.13,48.13,Packaging Materials
+93,1,0.15,55.91,Fines and Penalties
+93,2,0.13,195.23,Advertising
+93,3,0.17,134.64,Vehicle Maintenance
+94,1,0.09,77.54,Employee Salaries
+94,2,0.19,16.58,Office Furniture
+94,3,0.15,165.9,Office Expenses
+95,1,0.1,36.95,Shipping Costs
+95,2,0.09,46.14,Fuel Costs
+95,3,0.15,55.91,Fines and Penalties
+96,1,0.18,66.63,Security Services
+96,2,0.2,37.58,Workers Compensation
+97,1,0.13,156.95,Discounts
+98,1,0.13,48.13,Packaging Materials
+99,1,0.19,109.54,Contractor Fees
+100,1,0.08,16.15,Postage and Shipping
+100,2,0.16,56.59,Prepaid Expenses
+100,3,0.19,66.64,Bank Fees
+100,4,0.16,72.73,Returns
+101,1,0.08,16.15,Postage and Shipping
+101,2,0.1,36.95,Shipping Costs
+101,3,0.19,16.58,Office Furniture
+101,4,0.19,66.64,Bank Fees
+102,1,0.11,113.0,Insurance Premiums
+102,2,0.1,165.64,Unemployment Taxes
+102,3,0.1,171.6,Rent
+102,4,0.15,165.9,Office Expenses
+103,1,0.16,90.05,Taxes
+103,2,0.13,35.21,Business Insurance
+104,1,0.06,31.8,Temporary Labor
+105,1,0.1,164.11,Shrinkage
+105,2,0.06,127.82,Property Taxes
+105,3,0.17,137.87,Pensions
+106,1,0.05,123.14,Interest Expenses
+106,2,0.13,16.68,Inventory Costs
+106,3,0.06,127.82,Property Taxes
+106,4,0.18,66.63,Security Services
+107,1,0.17,134.64,Vehicle Maintenance
+107,2,0.13,195.23,Advertising
+107,3,0.11,188.36,Utilities Deposits
+107,4,0.11,179.77,Amortization
+108,1,0.16,56.59,Prepaid Expenses
+109,1,0.06,127.82,Property Taxes
+109,2,0.16,72.73,Returns
+110,1,0.06,174.78,Employee Training
+110,2,0.06,128.19,Equipment Maintenance
+110,3,0.16,90.05,Taxes
+110,4,0.13,156.95,Discounts
+111,1,0.18,66.63,Security Services
+111,2,0.09,124.24,Consulting Fees
+111,3,0.14,129.84,Accounting Fees
+112,1,0.11,113.0,Insurance Premiums
+112,2,0.1,171.6,Rent
+113,1,0.06,31.8,Temporary Labor
+113,2,0.1,88.88,Fixtures and Equipment
+114,1,0.18,99.41,Signage
+114,2,0.1,88.88,Fixtures and Equipment
+114,3,0.2,37.58,Workers Compensation
+114,4,0.06,174.78,Employee Training
+115,1,0.1,164.11,Shrinkage
+115,2,0.13,195.23,Advertising
+116,1,0.09,41.41,Professional Fees
+117,1,0.12,102.66,Freight and Delivery
+117,2,0.11,113.0,Insurance Premiums
+117,3,0.16,111.73,Utilities
+118,1,0.12,102.66,Freight and Delivery
+118,2,0.2,146.97,Depreciation
+119,1,0.11,188.36,Utilities Deposits
+119,2,0.2,37.58,Workers Compensation
+119,3,0.1,171.6,Rent
+119,4,0.15,55.91,Fines and Penalties
+120,1,0.13,48.13,Packaging Materials
+121,1,0.16,146.15,Software Subscriptions
+122,1,0.1,165.64,Unemployment Taxes
+122,2,0.17,134.64,Vehicle Maintenance
+122,3,0.11,66.59,Credit Card Fees
+122,4,0.11,188.36,Utilities Deposits
+123,1,0.09,59.46,Janitorial Services
+123,2,0.1,164.11,Shrinkage
+123,3,0.2,102.55,Office Supplies
+123,4,0.1,165.64,Unemployment Taxes
+124,1,0.09,46.14,Fuel Costs
+124,2,0.16,72.73,Returns
+125,1,0.16,111.73,Utilities
+125,2,0.09,46.14,Fuel Costs
+125,3,0.07,128.18,Other Expenses
+126,1,0.15,161.92,Travel Expenses
+126,2,0.09,46.14,Fuel Costs
+127,1,0.15,165.9,Office Expenses
+127,2,0.17,137.87,Pensions
+127,3,0.13,16.68,Inventory Costs
+127,4,0.11,179.77,Amortization
+128,1,0.18,99.41,Signage
+129,1,0.13,156.95,Discounts
+129,2,0.1,165.64,Unemployment Taxes
+129,3,0.19,66.64,Bank Fees
+129,4,0.13,16.68,Inventory Costs
+130,1,0.19,109.54,Contractor Fees
+130,2,0.13,16.68,Inventory Costs
+130,3,0.1,171.6,Rent
+130,4,0.1,165.64,Unemployment Taxes
+131,1,0.11,10.67,Bad Debt
+131,2,0.2,37.58,Workers Compensation
+132,1,0.1,125.84,Marketing Costs
+133,1,0.13,195.23,Advertising
+133,2,0.1,125.84,Marketing Costs
+133,3,0.13,16.68,Inventory Costs
+133,4,0.15,86.64,Hardware Upgrades
+134,1,0.09,124.24,Consulting Fees
+134,2,0.07,90.62,Benefits
+134,3,0.15,86.64,Hardware Upgrades
+134,4,0.06,128.19,Equipment Maintenance
+135,1,0.15,86.64,Hardware Upgrades
+135,2,0.11,179.77,Amortization
+135,3,0.13,35.21,Business Insurance
+135,4,0.11,188.36,Utilities Deposits
+136,1,0.2,146.97,Depreciation
+137,1,0.09,41.41,Professional Fees
+137,2,0.15,165.9,Office Expenses
+137,3,0.16,111.73,Utilities
+137,4,0.13,195.23,Advertising
+138,1,0.06,128.19,Equipment Maintenance
+138,2,0.13,48.13,Packaging Materials
+138,3,0.11,10.67,Bad Debt
+139,1,0.09,77.54,Employee Salaries
+139,2,0.06,128.19,Equipment Maintenance
+140,1,0.05,123.14,Interest Expenses
+140,2,0.16,90.05,Taxes
+141,1,0.2,146.97,Depreciation
+141,2,0.13,195.23,Advertising
+142,1,0.19,16.58,Office Furniture
+142,2,0.16,111.73,Utilities
+142,3,0.13,156.95,Discounts
+143,1,0.1,171.6,Rent
+144,1,0.11,10.67,Bad Debt
+144,2,0.11,66.59,Credit Card Fees
+144,3,0.19,132.18,Miscellaneous Expenses
+144,4,0.19,16.58,Office Furniture
+145,1,0.11,113.0,Insurance Premiums
+145,2,0.2,102.55,Office Supplies
+145,3,0.19,16.58,Office Furniture
+145,4,0.07,90.62,Benefits
+146,1,0.13,48.13,Packaging Materials
+146,2,0.13,35.21,Business Insurance
+146,3,0.09,41.41,Professional Fees
+146,4,0.06,174.78,Employee Training
+147,1,0.09,46.14,Fuel Costs
+147,2,0.08,16.15,Postage and Shipping
+147,3,0.06,31.8,Temporary Labor
+148,1,0.13,156.95,Discounts
+149,1,0.1,165.64,Unemployment Taxes
+149,2,0.11,179.77,Amortization
+150,1,0.11,10.67,Bad Debt
+150,2,0.13,48.13,Packaging Materials
+150,3,0.15,86.64,Hardware Upgrades
+151,1,0.13,35.21,Business Insurance
+151,2,0.19,16.58,Office Furniture
+151,3,0.13,195.23,Advertising
+152,1,0.16,111.73,Utilities
+152,2,0.06,31.8,Temporary Labor
+152,3,0.19,16.58,Office Furniture
+153,1,0.08,16.15,Postage and Shipping
+153,2,0.19,66.64,Bank Fees
+153,3,0.16,56.59,Prepaid Expenses
+153,4,0.1,165.64,Unemployment Taxes
+154,1,0.1,171.6,Rent
+155,1,0.08,64.64,Recruitment Costs
+155,2,0.18,99.41,Signage
+155,3,0.16,146.15,Software Subscriptions
+156,1,0.15,165.9,Office Expenses
+156,2,0.19,109.54,Contractor Fees
+157,1,0.07,90.62,Benefits
+157,2,0.1,171.6,Rent
+157,3,0.09,59.46,Janitorial Services
+157,4,0.19,119.99,Deferred Taxes
+158,1,0.11,10.67,Bad Debt
+158,2,0.2,37.58,Workers Compensation
+158,3,0.16,146.15,Software Subscriptions
+159,1,0.11,179.77,Amortization
+159,2,0.13,48.13,Packaging Materials
+159,3,0.1,125.84,Marketing Costs
+159,4,0.12,125.0,Legal Fees
+160,1,0.16,56.59,Prepaid Expenses
+160,2,0.17,137.87,Pensions
+160,3,0.15,55.91,Fines and Penalties
+161,1,0.07,128.18,Other Expenses
+162,1,0.2,102.55,Office Supplies
+162,2,0.2,37.58,Workers Compensation
+162,3,0.19,109.54,Contractor Fees
+163,1,0.06,174.78,Employee Training
+163,2,0.08,16.15,Postage and Shipping
+163,3,0.11,66.59,Credit Card Fees
+164,1,0.06,174.78,Employee Training
+164,2,0.1,171.6,Rent
+165,1,0.13,195.23,Advertising
+165,2,0.12,125.0,Legal Fees
+165,3,0.06,174.78,Employee Training
+166,1,0.06,31.8,Temporary Labor
+167,1,0.1,88.88,Fixtures and Equipment
+167,2,0.19,119.99,Deferred Taxes
+167,3,0.13,156.95,Discounts
+167,4,0.13,195.23,Advertising
+168,1,0.19,16.58,Office Furniture
+168,2,0.09,59.46,Janitorial Services
+168,3,0.19,109.54,Contractor Fees
+168,4,0.1,164.11,Shrinkage
+169,1,0.19,119.99,Deferred Taxes
+169,2,0.07,193.79,Promotions
+169,3,0.18,66.63,Security Services
+169,4,0.08,64.64,Recruitment Costs
+170,1,0.06,127.82,Property Taxes
+171,1,0.17,134.64,Vehicle Maintenance
+171,2,0.1,125.84,Marketing Costs
+171,3,0.13,156.95,Discounts
+172,1,0.16,56.59,Prepaid Expenses
+172,2,0.17,134.64,Vehicle Maintenance
+172,3,0.13,156.95,Discounts
+173,1,0.1,165.64,Unemployment Taxes
+173,2,0.16,90.05,Taxes
+174,1,0.09,77.54,Employee Salaries
+174,2,0.1,88.88,Fixtures and Equipment
+175,1,0.17,134.64,Vehicle Maintenance
+175,2,0.19,16.58,Office Furniture
+175,3,0.05,123.14,Interest Expenses
+175,4,0.07,90.62,Benefits
+176,1,0.06,128.19,Equipment Maintenance
+176,2,0.17,137.87,Pensions
+176,3,0.11,188.36,Utilities Deposits
+177,1,0.08,64.64,Recruitment Costs
+177,2,0.1,125.84,Marketing Costs
+177,3,0.16,146.15,Software Subscriptions
+178,1,0.15,55.91,Fines and Penalties
+178,2,0.06,127.82,Property Taxes
+179,1,0.17,134.64,Vehicle Maintenance
+179,2,0.2,37.58,Workers Compensation
+179,3,0.05,123.14,Interest Expenses
+179,4,0.17,137.87,Pensions
+180,1,0.09,77.54,Employee Salaries
+181,1,0.2,37.58,Workers Compensation
+182,1,0.15,55.91,Fines and Penalties
+183,1,0.12,63.04,Leasehold Improvements
+184,1,0.1,125.84,Marketing Costs
+184,2,0.12,102.66,Freight and Delivery
+185,1,0.2,146.97,Depreciation
+185,2,0.13,151.04,Auditing Fees
+186,1,0.15,55.91,Fines and Penalties
+186,2,0.13,48.13,Packaging Materials
+186,3,0.19,16.58,Office Furniture
+187,1,0.19,66.64,Bank Fees
+187,2,0.08,16.15,Postage and Shipping
+188,1,0.13,16.68,Inventory Costs
+189,1,0.08,16.15,Postage and Shipping
+189,2,0.09,46.14,Fuel Costs
+190,1,0.19,16.58,Office Furniture
+190,2,0.06,127.82,Property Taxes
+190,3,0.1,88.88,Fixtures and Equipment
+191,1,0.1,164.11,Shrinkage
+192,1,0.19,66.64,Bank Fees
+192,2,0.13,16.68,Inventory Costs
+192,3,0.16,56.59,Prepaid Expenses
+193,1,0.11,179.77,Amortization
+193,2,0.13,16.68,Inventory Costs
+193,3,0.15,86.64,Hardware Upgrades
+194,1,0.15,55.91,Fines and Penalties
+194,2,0.09,46.14,Fuel Costs
+194,3,0.11,179.77,Amortization
+194,4,0.09,41.41,Professional Fees
+195,1,0.11,113.0,Insurance Premiums
+195,2,0.16,90.05,Taxes
+196,1,0.2,102.55,Office Supplies
+196,2,0.06,31.8,Temporary Labor
+196,3,0.13,35.21,Business Insurance
+197,1,0.2,146.97,Depreciation
+197,2,0.13,195.23,Advertising
+197,3,0.12,63.04,Leasehold Improvements
+197,4,0.19,109.54,Contractor Fees
+198,1,0.13,16.68,Inventory Costs
+199,1,0.13,195.23,Advertising
+199,2,0.17,134.64,Vehicle Maintenance
+200,1,0.12,125.0,Legal Fees
+200,2,0.13,48.13,Packaging Materials
+200,3,0.19,119.99,Deferred Taxes
+201,1,0.12,125.0,Legal Fees
+201,2,0.19,16.58,Office Furniture
+201,3,0.17,134.64,Vehicle Maintenance
+201,4,0.14,129.84,Accounting Fees
+202,1,0.07,193.79,Promotions
+202,2,0.15,55.91,Fines and Penalties
+202,3,0.11,10.67,Bad Debt
+203,1,0.05,123.14,Interest Expenses
+203,2,0.19,66.64,Bank Fees
+203,3,0.07,90.62,Benefits
+203,4,0.11,188.36,Utilities Deposits
+204,1,0.06,127.82,Property Taxes
+204,2,0.18,66.63,Security Services
+204,3,0.09,77.54,Employee Salaries
+204,4,0.06,31.8,Temporary Labor
+205,1,0.13,16.68,Inventory Costs
+205,2,0.16,146.15,Software Subscriptions
+206,1,0.1,164.11,Shrinkage
+206,2,0.2,146.97,Depreciation
+206,3,0.16,146.15,Software Subscriptions
+206,4,0.19,109.54,Contractor Fees
+207,1,0.12,63.04,Leasehold Improvements
+207,2,0.13,151.04,Auditing Fees
+208,1,0.1,88.88,Fixtures and Equipment
+208,2,0.06,31.8,Temporary Labor
+208,3,0.07,193.79,Promotions
+208,4,0.1,165.64,Unemployment Taxes
+209,1,0.12,102.66,Freight and Delivery
+209,2,0.2,37.58,Workers Compensation
+210,1,0.07,193.79,Promotions
+210,2,0.19,119.99,Deferred Taxes
+210,3,0.11,188.36,Utilities Deposits
+211,1,0.09,41.41,Professional Fees
+212,1,0.2,102.55,Office Supplies
+212,2,0.15,86.64,Hardware Upgrades
+212,3,0.06,31.8,Temporary Labor
+213,1,0.15,165.9,Office Expenses
+213,2,0.13,156.95,Discounts
+213,3,0.13,35.21,Business Insurance
+214,1,0.13,195.23,Advertising
+215,1,0.17,134.64,Vehicle Maintenance
+215,2,0.09,77.54,Employee Salaries
+215,3,0.16,90.05,Taxes
+216,1,0.15,165.9,Office Expenses
+216,2,0.07,128.18,Other Expenses
+216,3,0.13,48.13,Packaging Materials
+216,4,0.13,16.68,Inventory Costs
+217,1,0.07,128.18,Other Expenses
+217,2,0.07,90.62,Benefits
+218,1,0.09,77.54,Employee Salaries
+218,2,0.09,124.24,Consulting Fees
+218,3,0.11,188.36,Utilities Deposits
+219,1,0.16,56.59,Prepaid Expenses
+219,2,0.06,128.19,Equipment Maintenance
+219,3,0.11,113.0,Insurance Premiums
+220,1,0.13,16.68,Inventory Costs
+220,2,0.09,124.24,Consulting Fees
+220,3,0.07,90.62,Benefits
+220,4,0.17,134.64,Vehicle Maintenance
+221,1,0.14,129.84,Accounting Fees
+221,2,0.1,165.64,Unemployment Taxes
+221,3,0.1,125.84,Marketing Costs
+222,1,0.07,193.79,Promotions
+222,2,0.06,128.19,Equipment Maintenance
+222,3,0.1,165.64,Unemployment Taxes
+223,1,0.06,128.19,Equipment Maintenance
+224,1,0.19,119.99,Deferred Taxes
+224,2,0.12,125.0,Legal Fees
+224,3,0.16,111.73,Utilities
+224,4,0.2,37.58,Workers Compensation
+225,1,0.14,129.84,Accounting Fees
+225,2,0.08,16.15,Postage and Shipping
+226,1,0.1,125.84,Marketing Costs
+226,2,0.19,132.18,Miscellaneous Expenses
+226,3,0.15,165.9,Office Expenses
+227,1,0.17,137.87,Pensions
+227,2,0.09,46.14,Fuel Costs
+227,3,0.08,16.15,Postage and Shipping
+228,1,0.18,66.63,Security Services
+228,2,0.09,110.33,Liability Insurance
+228,3,0.18,99.41,Signage
+228,4,0.08,64.64,Recruitment Costs
+229,1,0.13,151.04,Auditing Fees
+229,2,0.11,113.0,Insurance Premiums
+230,1,0.2,37.58,Workers Compensation
+230,2,0.12,102.66,Freight and Delivery
+231,1,0.16,111.73,Utilities
+231,2,0.1,88.88,Fixtures and Equipment
+231,3,0.09,124.24,Consulting Fees
+232,1,0.12,125.0,Legal Fees
+232,2,0.09,46.14,Fuel Costs
+233,1,0.07,128.18,Other Expenses
+234,1,0.14,129.84,Accounting Fees
+234,2,0.1,164.11,Shrinkage
+235,1,0.2,146.97,Depreciation
+235,2,0.19,109.54,Contractor Fees
+236,1,0.18,66.63,Security Services
+237,1,0.19,132.18,Miscellaneous Expenses
+237,2,0.18,99.41,Signage
+238,1,0.07,90.62,Benefits
+238,2,0.11,188.36,Utilities Deposits
+238,3,0.16,72.73,Returns
+239,1,0.1,165.64,Unemployment Taxes
+239,2,0.06,174.78,Employee Training
+239,3,0.17,134.64,Vehicle Maintenance
+239,4,0.12,125.0,Legal Fees
+240,1,0.13,151.04,Auditing Fees
+241,1,0.12,63.04,Leasehold Improvements
+241,2,0.18,66.63,Security Services
+241,3,0.1,88.88,Fixtures and Equipment
+241,4,0.07,128.18,Other Expenses
+242,1,0.16,146.15,Software Subscriptions
+242,2,0.09,46.14,Fuel Costs
+242,3,0.15,161.92,Travel Expenses
+243,1,0.19,132.18,Miscellaneous Expenses
+243,2,0.11,66.59,Credit Card Fees
+243,3,0.12,102.66,Freight and Delivery
+243,4,0.1,171.6,Rent
+244,1,0.12,102.66,Freight and Delivery
+244,2,0.15,55.91,Fines and Penalties
+244,3,0.13,195.23,Advertising
+245,1,0.11,10.67,Bad Debt
+245,2,0.16,72.73,Returns
+245,3,0.11,113.0,Insurance Premiums
+246,1,0.19,132.18,Miscellaneous Expenses
+246,2,0.1,165.64,Unemployment Taxes
+247,1,0.09,110.33,Liability Insurance
+247,2,0.2,102.55,Office Supplies
+247,3,0.2,37.58,Workers Compensation
+248,1,0.09,59.46,Janitorial Services
+248,2,0.19,132.18,Miscellaneous Expenses
+248,3,0.09,41.41,Professional Fees
+248,4,0.13,48.13,Packaging Materials
+249,1,0.17,134.64,Vehicle Maintenance
+249,2,0.1,171.6,Rent
+250,1,0.16,90.05,Taxes
+250,2,0.13,35.21,Business Insurance
+250,3,0.05,123.14,Interest Expenses
+251,1,0.07,90.62,Benefits
+251,2,0.11,179.77,Amortization
+251,3,0.08,16.15,Postage and Shipping
+252,1,0.18,99.41,Signage
+252,2,0.1,36.95,Shipping Costs
+252,3,0.11,179.77,Amortization
+252,4,0.19,119.99,Deferred Taxes
+253,1,0.13,156.95,Discounts
+253,2,0.12,102.66,Freight and Delivery
+253,3,0.09,110.33,Liability Insurance
+253,4,0.09,124.24,Consulting Fees
+254,1,0.17,134.64,Vehicle Maintenance
+254,2,0.1,125.84,Marketing Costs
+254,3,0.09,77.54,Employee Salaries
+255,1,0.09,77.54,Employee Salaries
+255,2,0.13,35.21,Business Insurance
+255,3,0.05,123.14,Interest Expenses
+256,1,0.15,86.64,Hardware Upgrades
+256,2,0.15,55.91,Fines and Penalties
+257,1,0.06,128.19,Equipment Maintenance
+258,1,0.18,66.63,Security Services
+259,1,0.09,110.33,Liability Insurance
+259,2,0.17,134.64,Vehicle Maintenance
+260,1,0.19,119.99,Deferred Taxes
+260,2,0.14,129.84,Accounting Fees
+261,1,0.06,31.8,Temporary Labor
+261,2,0.16,90.05,Taxes
+261,3,0.19,132.18,Miscellaneous Expenses
+262,1,0.11,66.59,Credit Card Fees
+262,2,0.19,119.99,Deferred Taxes
+263,1,0.11,188.36,Utilities Deposits
+263,2,0.19,132.18,Miscellaneous Expenses
+263,3,0.1,165.64,Unemployment Taxes
+263,4,0.12,102.66,Freight and Delivery
+264,1,0.06,128.19,Equipment Maintenance
+264,2,0.13,35.21,Business Insurance
+264,3,0.06,174.78,Employee Training
+264,4,0.07,128.18,Other Expenses
+265,1,0.1,171.6,Rent
+266,1,0.11,113.0,Insurance Premiums
+266,2,0.16,56.59,Prepaid Expenses
+266,3,0.19,132.18,Miscellaneous Expenses
+267,1,0.17,137.87,Pensions
+268,1,0.09,59.46,Janitorial Services
+268,2,0.19,119.99,Deferred Taxes
+268,3,0.16,111.73,Utilities
+268,4,0.11,179.77,Amortization
+269,1,0.19,16.58,Office Furniture
+269,2,0.19,109.54,Contractor Fees
+270,1,0.11,188.36,Utilities Deposits
+270,2,0.06,174.78,Employee Training
+270,3,0.16,72.73,Returns
+271,1,0.11,188.36,Utilities Deposits
+271,2,0.16,72.73,Returns
+271,3,0.19,132.18,Miscellaneous Expenses
+271,4,0.11,10.67,Bad Debt
+272,1,0.13,156.95,Discounts
+272,2,0.15,161.92,Travel Expenses
+273,1,0.15,161.92,Travel Expenses
+274,1,0.07,90.62,Benefits
+274,2,0.09,77.54,Employee Salaries
+275,1,0.1,125.84,Marketing Costs
+275,2,0.1,36.95,Shipping Costs
+275,3,0.16,111.73,Utilities
+275,4,0.18,66.63,Security Services
+276,1,0.2,146.97,Depreciation
+276,2,0.06,128.19,Equipment Maintenance
+276,3,0.12,63.04,Leasehold Improvements
+276,4,0.19,66.64,Bank Fees
+277,1,0.15,165.9,Office Expenses
+277,2,0.15,161.92,Travel Expenses
+278,1,0.09,41.41,Professional Fees
+278,2,0.09,77.54,Employee Salaries
+278,3,0.16,146.15,Software Subscriptions
+278,4,0.11,179.77,Amortization
+279,1,0.19,66.64,Bank Fees
+279,2,0.1,36.95,Shipping Costs
+279,3,0.09,46.14,Fuel Costs
+279,4,0.08,64.64,Recruitment Costs
+280,1,0.11,188.36,Utilities Deposits
+281,1,0.13,48.13,Packaging Materials
+281,2,0.11,113.0,Insurance Premiums
+281,3,0.09,77.54,Employee Salaries
+281,4,0.09,110.33,Liability Insurance
+282,1,0.16,56.59,Prepaid Expenses
+282,2,0.06,174.78,Employee Training
+283,1,0.15,86.64,Hardware Upgrades
+283,2,0.17,134.64,Vehicle Maintenance
+284,1,0.2,37.58,Workers Compensation
+285,1,0.13,195.23,Advertising
+286,1,0.1,164.11,Shrinkage
+286,2,0.19,16.58,Office Furniture
+287,1,0.19,109.54,Contractor Fees
+287,2,0.13,35.21,Business Insurance
+287,3,0.07,193.79,Promotions
+288,1,0.12,125.0,Legal Fees
+289,1,0.11,66.59,Credit Card Fees
+289,2,0.11,10.67,Bad Debt
+289,3,0.09,124.24,Consulting Fees
+290,1,0.15,86.64,Hardware Upgrades
+291,1,0.1,36.95,Shipping Costs
+291,2,0.15,55.91,Fines and Penalties
+291,3,0.13,156.95,Discounts
+292,1,0.09,59.46,Janitorial Services
+292,2,0.16,111.73,Utilities
+293,1,0.13,35.21,Business Insurance
+293,2,0.06,127.82,Property Taxes
+294,1,0.16,111.73,Utilities
+294,2,0.07,193.79,Promotions
+295,1,0.11,188.36,Utilities Deposits
+296,1,0.13,156.95,Discounts
+296,2,0.18,66.63,Security Services
+297,1,0.12,63.04,Leasehold Improvements
+297,2,0.2,37.58,Workers Compensation
+297,3,0.08,64.64,Recruitment Costs
+298,1,0.16,72.73,Returns
+298,2,0.09,46.14,Fuel Costs
+298,3,0.14,129.84,Accounting Fees
+298,4,0.2,102.55,Office Supplies
+299,1,0.16,56.59,Prepaid Expenses
+299,2,0.2,37.58,Workers Compensation
+299,3,0.17,137.87,Pensions
+299,4,0.07,90.62,Benefits
+300,1,0.19,66.64,Bank Fees
+301,1,0.09,59.46,Janitorial Services
+301,2,0.11,188.36,Utilities Deposits
+302,1,0.16,72.73,Returns
+303,1,0.17,137.87,Pensions
+303,2,0.16,146.15,Software Subscriptions
+304,1,0.12,102.66,Freight and Delivery
+304,2,0.09,41.41,Professional Fees
+304,3,0.05,123.14,Interest Expenses
+305,1,0.19,132.18,Miscellaneous Expenses
+305,2,0.12,102.66,Freight and Delivery
+305,3,0.11,10.67,Bad Debt
+305,4,0.06,174.78,Employee Training
+306,1,0.11,113.0,Insurance Premiums
+306,2,0.1,36.95,Shipping Costs
+307,1,0.08,64.64,Recruitment Costs
+307,2,0.12,63.04,Leasehold Improvements
+307,3,0.16,56.59,Prepaid Expenses
+308,1,0.16,56.59,Prepaid Expenses
+308,2,0.13,195.23,Advertising
+308,3,0.12,63.04,Leasehold Improvements
+308,4,0.11,188.36,Utilities Deposits
+309,1,0.11,188.36,Utilities Deposits
+309,2,0.09,59.46,Janitorial Services
+310,1,0.12,102.66,Freight and Delivery
+310,2,0.06,31.8,Temporary Labor
+310,3,0.19,109.54,Contractor Fees
+311,1,0.09,41.41,Professional Fees
+312,1,0.15,55.91,Fines and Penalties
+313,1,0.11,179.77,Amortization
+314,1,0.06,174.78,Employee Training
+314,2,0.11,188.36,Utilities Deposits
+314,3,0.11,179.77,Amortization
+315,1,0.15,165.9,Office Expenses
+315,2,0.17,134.64,Vehicle Maintenance
+316,1,0.13,48.13,Packaging Materials
+316,2,0.09,124.24,Consulting Fees
+317,1,0.1,171.6,Rent
+318,1,0.1,164.11,Shrinkage
+318,2,0.12,63.04,Leasehold Improvements
+318,3,0.11,113.0,Insurance Premiums
+319,1,0.09,41.41,Professional Fees
+319,2,0.14,129.84,Accounting Fees
+319,3,0.13,48.13,Packaging Materials
+320,1,0.13,48.13,Packaging Materials
+320,2,0.08,16.15,Postage and Shipping
+320,3,0.1,164.11,Shrinkage
+320,4,0.06,174.78,Employee Training
+321,1,0.16,72.73,Returns
+322,1,0.06,31.8,Temporary Labor
+322,2,0.12,63.04,Leasehold Improvements
+322,3,0.07,90.62,Benefits
+322,4,0.11,188.36,Utilities Deposits
+323,1,0.09,77.54,Employee Salaries
+323,2,0.16,111.73,Utilities
+324,1,0.2,146.97,Depreciation
+324,2,0.17,134.64,Vehicle Maintenance
+324,3,0.1,164.11,Shrinkage
+325,1,0.2,102.55,Office Supplies
+325,2,0.19,66.64,Bank Fees
+325,3,0.19,119.99,Deferred Taxes
+325,4,0.15,161.92,Travel Expenses
+326,1,0.05,123.14,Interest Expenses
+326,2,0.2,102.55,Office Supplies
+327,1,0.11,10.67,Bad Debt
+328,1,0.19,119.99,Deferred Taxes
+328,2,0.06,31.8,Temporary Labor
+328,3,0.09,46.14,Fuel Costs
+329,1,0.13,151.04,Auditing Fees
+329,2,0.19,16.58,Office Furniture
+329,3,0.1,36.95,Shipping Costs
+330,1,0.18,99.41,Signage
+331,1,0.13,195.23,Advertising
+331,2,0.14,129.84,Accounting Fees
+331,3,0.08,64.64,Recruitment Costs
+332,1,0.07,90.62,Benefits
+332,2,0.17,134.64,Vehicle Maintenance
+332,3,0.19,132.18,Miscellaneous Expenses
+332,4,0.1,125.84,Marketing Costs
+333,1,0.18,99.41,Signage
+333,2,0.06,31.8,Temporary Labor
+333,3,0.11,10.67,Bad Debt
+334,1,0.19,109.54,Contractor Fees
+334,2,0.17,134.64,Vehicle Maintenance
+334,3,0.06,128.19,Equipment Maintenance
+335,1,0.13,151.04,Auditing Fees
+335,2,0.17,137.87,Pensions
+336,1,0.13,195.23,Advertising
+336,2,0.09,41.41,Professional Fees
+336,3,0.1,171.6,Rent
+336,4,0.2,146.97,Depreciation
+337,1,0.07,128.18,Other Expenses
+337,2,0.1,171.6,Rent
+337,3,0.15,55.91,Fines and Penalties
+337,4,0.06,174.78,Employee Training
+338,1,0.09,77.54,Employee Salaries
+338,2,0.15,55.91,Fines and Penalties
+338,3,0.1,125.84,Marketing Costs
+339,1,0.1,171.6,Rent
+339,2,0.13,16.68,Inventory Costs
+339,3,0.12,63.04,Leasehold Improvements
+340,1,0.12,63.04,Leasehold Improvements
+341,1,0.08,16.15,Postage and Shipping
+341,2,0.17,137.87,Pensions
+341,3,0.06,127.82,Property Taxes
+342,1,0.15,161.92,Travel Expenses
+342,2,0.05,123.14,Interest Expenses
+343,1,0.11,188.36,Utilities Deposits
+343,2,0.19,16.58,Office Furniture
+343,3,0.2,102.55,Office Supplies
+343,4,0.19,132.18,Miscellaneous Expenses
+344,1,0.19,132.18,Miscellaneous Expenses
+344,2,0.15,86.64,Hardware Upgrades
+344,3,0.2,37.58,Workers Compensation
+345,1,0.1,165.64,Unemployment Taxes
+345,2,0.17,137.87,Pensions
+346,1,0.12,63.04,Leasehold Improvements
+347,1,0.1,36.95,Shipping Costs
+348,1,0.07,193.79,Promotions
+348,2,0.11,66.59,Credit Card Fees
+348,3,0.17,137.87,Pensions
+349,1,0.15,86.64,Hardware Upgrades
+349,2,0.09,110.33,Liability Insurance
+350,1,0.09,77.54,Employee Salaries
+350,2,0.19,132.18,Miscellaneous Expenses
+350,3,0.06,174.78,Employee Training
+350,4,0.19,109.54,Contractor Fees
+351,1,0.06,174.78,Employee Training
+352,1,0.09,124.24,Consulting Fees
+352,2,0.16,90.05,Taxes
+352,3,0.09,110.33,Liability Insurance
+353,1,0.15,86.64,Hardware Upgrades
+353,2,0.1,165.64,Unemployment Taxes
+354,1,0.13,156.95,Discounts
+354,2,0.16,90.05,Taxes
+355,1,0.12,102.66,Freight and Delivery
+355,2,0.09,77.54,Employee Salaries
+355,3,0.19,132.18,Miscellaneous Expenses
+356,1,0.12,63.04,Leasehold Improvements
+356,2,0.12,125.0,Legal Fees
+356,3,0.2,37.58,Workers Compensation
+357,1,0.09,110.33,Liability Insurance
+358,1,0.09,46.14,Fuel Costs
+358,2,0.06,127.82,Property Taxes
+358,3,0.1,164.11,Shrinkage
+359,1,0.06,127.82,Property Taxes
+359,2,0.16,56.59,Prepaid Expenses
+360,1,0.12,102.66,Freight and Delivery
+360,2,0.07,193.79,Promotions
+360,3,0.11,113.0,Insurance Premiums
+361,1,0.06,128.19,Equipment Maintenance
+362,1,0.16,72.73,Returns
+362,2,0.06,128.19,Equipment Maintenance
+363,1,0.14,129.84,Accounting Fees
+363,2,0.1,36.95,Shipping Costs
+364,1,0.11,113.0,Insurance Premiums
+364,2,0.09,77.54,Employee Salaries
+364,3,0.1,164.11,Shrinkage
+364,4,0.13,16.68,Inventory Costs
+365,1,0.1,125.84,Marketing Costs
+365,2,0.19,132.18,Miscellaneous Expenses
+365,3,0.09,77.54,Employee Salaries
+365,4,0.1,36.95,Shipping Costs
+366,1,0.16,90.05,Taxes
+367,1,0.13,16.68,Inventory Costs
+367,2,0.19,119.99,Deferred Taxes
+368,1,0.13,48.13,Packaging Materials
+369,1,0.11,113.0,Insurance Premiums
+369,2,0.17,134.64,Vehicle Maintenance
+369,3,0.15,55.91,Fines and Penalties
+369,4,0.16,90.05,Taxes
+370,1,0.09,41.41,Professional Fees
+370,2,0.12,125.0,Legal Fees
+371,1,0.13,16.68,Inventory Costs
+371,2,0.18,66.63,Security Services
+371,3,0.19,66.64,Bank Fees
+371,4,0.12,102.66,Freight and Delivery
+372,1,0.11,113.0,Insurance Premiums
+372,2,0.19,109.54,Contractor Fees
+373,1,0.12,63.04,Leasehold Improvements
+373,2,0.12,102.66,Freight and Delivery
+373,3,0.2,102.55,Office Supplies
+373,4,0.09,41.41,Professional Fees
+374,1,0.2,102.55,Office Supplies
+374,2,0.19,66.64,Bank Fees
+374,3,0.11,179.77,Amortization
+375,1,0.2,37.58,Workers Compensation
+375,2,0.18,99.41,Signage
+375,3,0.09,59.46,Janitorial Services
+375,4,0.15,86.64,Hardware Upgrades
+376,1,0.18,99.41,Signage
+376,2,0.08,16.15,Postage and Shipping
+377,1,0.07,90.62,Benefits
+378,1,0.15,55.91,Fines and Penalties
+378,2,0.13,151.04,Auditing Fees
+378,3,0.11,10.67,Bad Debt
+378,4,0.15,161.92,Travel Expenses
+379,1,0.15,86.64,Hardware Upgrades
+379,2,0.11,66.59,Credit Card Fees
+379,3,0.09,124.24,Consulting Fees
+379,4,0.13,35.21,Business Insurance
+380,1,0.13,195.23,Advertising
+380,2,0.15,161.92,Travel Expenses
+380,3,0.16,90.05,Taxes
+381,1,0.09,124.24,Consulting Fees
+381,2,0.15,55.91,Fines and Penalties
+381,3,0.09,59.46,Janitorial Services
+381,4,0.2,102.55,Office Supplies
+382,1,0.16,56.59,Prepaid Expenses
+382,2,0.15,161.92,Travel Expenses
+383,1,0.1,125.84,Marketing Costs
+383,2,0.15,55.91,Fines and Penalties
+383,3,0.18,66.63,Security Services
+383,4,0.11,179.77,Amortization
+384,1,0.09,110.33,Liability Insurance
+385,1,0.19,66.64,Bank Fees
+386,1,0.09,59.46,Janitorial Services
+386,2,0.16,72.73,Returns
+386,3,0.19,119.99,Deferred Taxes
+386,4,0.09,46.14,Fuel Costs
+387,1,0.12,125.0,Legal Fees
+388,1,0.09,41.41,Professional Fees
+388,2,0.1,88.88,Fixtures and Equipment
+389,1,0.11,188.36,Utilities Deposits
+389,2,0.06,31.8,Temporary Labor
+389,3,0.16,146.15,Software Subscriptions
+389,4,0.13,35.21,Business Insurance
+390,1,0.06,128.19,Equipment Maintenance
+390,2,0.19,66.64,Bank Fees
+390,3,0.09,41.41,Professional Fees
+391,1,0.13,48.13,Packaging Materials
+391,2,0.12,63.04,Leasehold Improvements
+391,3,0.09,41.41,Professional Fees
+392,1,0.19,66.64,Bank Fees
+392,2,0.13,156.95,Discounts
+393,1,0.11,188.36,Utilities Deposits
+393,2,0.12,63.04,Leasehold Improvements
+394,1,0.12,63.04,Leasehold Improvements
+394,2,0.2,146.97,Depreciation
+395,1,0.12,102.66,Freight and Delivery
+395,2,0.13,16.68,Inventory Costs
+395,3,0.15,161.92,Travel Expenses
+395,4,0.11,66.59,Credit Card Fees
+396,1,0.13,48.13,Packaging Materials
+396,2,0.09,124.24,Consulting Fees
+396,3,0.2,37.58,Workers Compensation
+397,1,0.1,88.88,Fixtures and Equipment
+398,1,0.05,123.14,Interest Expenses
+398,2,0.09,59.46,Janitorial Services
+399,1,0.2,146.97,Depreciation
+399,2,0.09,41.41,Professional Fees
+399,3,0.16,56.59,Prepaid Expenses
+400,1,0.1,164.11,Shrinkage
+400,2,0.11,10.67,Bad Debt
+400,3,0.09,46.14,Fuel Costs
+400,4,0.11,66.59,Credit Card Fees
