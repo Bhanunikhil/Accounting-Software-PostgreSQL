@@ -1,0 +1,5 @@
+account_id,account_name, account_type, balance
+1001, income, 0, 0.0
+1002, expense, 1, 0.0
+1003, asset, 2, 0.0
+1004, liability, 3, 0.0
