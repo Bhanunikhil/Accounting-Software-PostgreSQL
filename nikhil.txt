@@ -1,0 +1,3 @@
+Hi this is my file. I am giving aomw twxt to practice.Version Control Systems: Proficient in using Git and other version control systems for managing and maintaining code repositories.
+Test Management Tools: Experienced in using test management tools like TestRail, Zephyr, or QTest to organize and manage test cases, plans, and results.
+Scripting and Programming: Strong proficiency in scripting and programming languages such as Python, Java, or JavaScript for developing automated tests.
